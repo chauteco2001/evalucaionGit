@@ -1,0 +1,15 @@
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    border: 2px solid black;
+    text-align: left;
+    padding: 8px;
+}
+
+td {
+    background-color: #e0e803;
+}
